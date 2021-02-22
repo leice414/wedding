@@ -1,9 +1,8 @@
-# wedding
 <!DOCTYPE html>
 <html id="back1" lang="en">
 
   <head>
-    <title>A&aml;J Page 2021 &copy;</title>
+    <title>A&amp;J Page 2021 &copy;</title>
     <meta charset="utf-8">
 	 
 	 
@@ -17,7 +16,7 @@
 	 
 	 
     <style>
-		#main-header {}
+	#main-header {}
 
       #our-story {
         background-color: maroon;
@@ -729,9 +728,6 @@
       const scrollToTopButton = document.getElementById('js-top');
 
     </script>
-
-
-
   </body>
 
 </html>
